@@ -1,0 +1,16 @@
+PODS:
+  - MysticXShared (1.0)
+
+DEPENDENCIES:
+  - MysticXShared (from `../MysticXShared`)
+
+EXTERNAL SOURCES:
+  MysticXShared:
+    :path: "../MysticXShared"
+
+SPEC CHECKSUMS:
+  MysticXShared: b64aae4d10f141c3ffc1b21f498f3fa561765287
+
+PODFILE CHECKSUM: 6e6fd3dbe49cc708b29121cbcdfc8ff63a4fe115
+
+COCOAPODS: 1.11.3
