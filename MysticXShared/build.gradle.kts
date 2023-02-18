@@ -31,7 +31,7 @@ kotlin {
                 implementation(compose.ui)
                 implementation(compose.foundation)
                 implementation(compose.material)
-
+                implementation("io.insert-koin:koin-core:3.3.2")
             }
         }
         val commonTest by getting {
